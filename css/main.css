@@ -708,3 +708,8 @@ login.html & newaccount.html*/
 		display: inherit !important;
 	}
 }
+
+.text-light1 {
+    font-weight: 300;
+    color: white;
+}
