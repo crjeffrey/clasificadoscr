@@ -6708,3 +6708,8 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+figcaption,
+figure, {
+  display: flex;
+}
