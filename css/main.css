@@ -717,3 +717,9 @@ login.html & newaccount.html*/
 .img-responsive1 {
     padding-top: 40px;
 }
+
+.lead1 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
