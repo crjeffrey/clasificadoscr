@@ -723,3 +723,10 @@ login.html & newaccount.html*/
     font-weight: bold;
     text-align: center;
 }
+
+.img-responsive2 {
+vertical-align: middle;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+}
